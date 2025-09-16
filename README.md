@@ -37,10 +37,10 @@ pip install pandas numpy tensorflow scikit-learn matplotlib seaborn
 
 1.  **Clone the repository**:
 
-    ```bash
+```bash
 git clone <GitHub URL of the project>
 cd LSTM_IMDB_Sentiment_Analysis
-    ```
+```
 
 2.  **Download the dataset**:
 
@@ -48,9 +48,9 @@ cd LSTM_IMDB_Sentiment_Analysis
 
 3.  **Run the Jupyter Notebook**:
 
-    ```bash
+```bash
 jupyter notebook LSTM_IMDB.ipynb
-    ```
+```
 
     Within the Jupyter environment, you can execute each cell step-by-step to observe the results of data processing, model training, and evaluation.
 
